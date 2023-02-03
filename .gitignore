@@ -1,0 +1,21 @@
+.well-known/
+/cdn/press/
+/cdn/press/Press Kit.zip
+/img/graphics/about/src/
+/img/graphics/landing/src/
+ads.txt
+blog/
+cache/
+compatibility2.php
+docs/
+error_log
+favicon.ico
+googlefd778325c5a53aa8.html
+latest-appimage.php
+latest-windows.php
+/lib/compat/
+/lib/cronjob/
+robots.txt
+rpcs4.php
+update/
+wiki/
