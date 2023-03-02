@@ -4,7 +4,7 @@
 <title>R.V. Teens</title>
 <meta charset="utf-8">
 <meta name="description" content="R.V. Teens">
-<meta name="google-site-verification" content=""/>
+<meta name="google-site-verification" content="https://smetana228.github.io/"/>
 <?php include 'lib/module/sys-meta.php';?>
 <meta property="og:title" content="R.V. Teens" />
 <meta property="og:description" content="Представляем Вам проект R.V.Teens, созданный в целях улучшения взаимодействий между клиентами и администрацией заведений, а также этот проект будет способствовать развитию заведений!" />
