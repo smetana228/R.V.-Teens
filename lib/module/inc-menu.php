@@ -76,7 +76,7 @@
 			</div>
 			-->
 
-			<a href='/about'>
+			<a href='/about.php'>
 			<div class="menu-btn-select">
 				<span>О проекте</span>
 			</div>
